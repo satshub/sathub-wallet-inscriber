@@ -1,4 +1,4 @@
-import { Network } from "belcoinjs-lib";
+import { Network } from "bitcoinjs-lib";
 
 export interface ApiUTXO {
   txid: string;
