@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.3",
   "name": "sathub-wallet-inscriber",
   "module": "index.ts",
   "type": "module",
@@ -20,10 +20,8 @@
     "bitcoinjs-lib": "6.1.6"
   },
   "devDependencies": {
+    "typescript": "^5.0.0",
     "bun-types": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
   },
   "author": "Kirill",
   "license": "ISC",
